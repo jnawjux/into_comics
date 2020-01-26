@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Oversized JSON files (leaving out all for now)
+.json
+.gz
